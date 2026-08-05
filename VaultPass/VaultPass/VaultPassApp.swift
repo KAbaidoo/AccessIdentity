@@ -11,7 +11,7 @@ import SwiftUI
 struct VaultPassApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            VaultLoginView()
         }
     }
 }
